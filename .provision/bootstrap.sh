@@ -33,6 +33,8 @@ sudo virtualenv env
 source env/bin/activate
 # install Flask
 sudo pip install Flask
+# install PyMongo
+sudo pip install pymongo
 return
 
 ## --- Install Supervisor --- ##
